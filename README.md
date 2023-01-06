@@ -1,4 +1,7 @@
-<h1 align="center">नमस्ते 🙏 I'm Kapil Singh</h1>
+<h1 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87+%F0%9F%99%8F+I'm+Kapil+Singh" alt="Typing SVG" /></a>
+</h1>
+
 <h3 align="center">A passionate flutter developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kapil708&label=Profile%20views&color=0e75b6&style=flat" alt="kapil708" /> </p>
